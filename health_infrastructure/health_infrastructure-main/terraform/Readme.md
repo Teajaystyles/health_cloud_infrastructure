@@ -24,9 +24,10 @@ To use this repository, ensure you have the following prerequisites:
 
 ### Initial Setup
 
-1. Cd to the folder:
+1. Clone the repository:
    ```bash
-    cd health_infrastructure/terraform
+   git clone https://github.com/teajaystyles/health_cloud_infrastructure.git
+    cd health_cloud_infrastructure/terraform
     ```
 2. Switch to any layer directory (e.g., `010-networking`):
    ```bash
