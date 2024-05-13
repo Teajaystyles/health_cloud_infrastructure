@@ -1,0 +1,7 @@
+{
+    "require": {
+        "aws/aws-sdk-php": "3.305.8",
+        "ext-pdo": "*",
+        "ext-pdo_mysql": "*"
+    }
+}

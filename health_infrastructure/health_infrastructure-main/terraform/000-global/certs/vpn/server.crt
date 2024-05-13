@@ -1,0 +1,87 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            55:32:c1:9b:02:e6:c2:e0:49:e0:a1:dc:49:f2:29:fc
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: CN=vpn.tijesuniabraham.com
+        Validity
+            Not Before: May  2 09:58:03 2024 GMT
+            Not After : Aug  5 09:58:03 2026 GMT
+        Subject: CN=server
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:cf:d0:8a:08:cf:16:d7:53:3d:22:6e:1f:3a:fc:
+                    b2:60:f0:12:9a:77:ed:d5:9f:94:86:09:e0:e0:a2:
+                    eb:fe:6d:68:85:a0:90:fd:34:9b:ea:ac:1f:a5:07:
+                    7c:a5:29:d0:e8:3a:98:ed:ae:1f:e1:00:9f:c5:f3:
+                    0f:8b:92:06:b6:cc:3c:4c:d0:d6:fd:bf:29:bd:f2:
+                    7d:b6:62:e0:f0:e3:bf:da:61:77:7b:01:1d:14:d2:
+                    ed:83:3b:15:ec:b4:ec:d9:06:62:04:7c:72:04:0b:
+                    b8:c2:2f:e3:1d:b3:f1:54:5c:e1:1c:21:72:1b:b4:
+                    7b:cd:2d:92:a7:b2:8e:af:9e:6d:5e:4e:09:b1:00:
+                    98:22:14:8a:21:3c:77:da:d2:20:ed:40:3c:d9:52:
+                    f2:a7:b6:79:f6:8b:44:bc:dd:3a:ef:18:bd:fc:20:
+                    b9:e0:79:44:51:6f:51:70:62:c6:6e:97:09:21:57:
+                    62:39:af:9f:66:30:bb:05:53:75:8e:52:d4:bd:3c:
+                    46:b5:18:77:94:c9:a7:06:d6:02:63:92:a5:90:78:
+                    4b:ad:75:6c:47:1f:7c:ad:a8:c7:5a:5f:cc:71:f9:
+                    11:49:6b:a1:36:92:17:e2:8d:66:99:28:5a:00:dc:
+                    fe:a5:c3:26:9d:39:9a:04:4f:b9:bd:7a:61:57:be:
+                    a0:1d
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            X509v3 Subject Key Identifier: 
+                B9:94:71:7F:C7:BE:EA:63:1B:07:76:86:4D:6C:49:42:6B:97:CC:DC
+            X509v3 Authority Key Identifier: 
+                keyid:06:9B:B0:4C:7F:57:07:F3:9D:54:A2:D2:B3:12:A9:BE:4B:A7:14:EB
+                DirName:/CN=vpn.tijesuniabraham.com
+                serial:60:A8:F5:A0:07:A7:44:AC:4B:4F:A1:2E:51:BC:80:1B:A4:44:DD:58
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication
+            X509v3 Key Usage: 
+                Digital Signature, Key Encipherment
+            X509v3 Subject Alternative Name: 
+                DNS:server
+    Signature Algorithm: sha256WithRSAEncryption
+    Signature Value:
+        08:e6:56:e7:22:1d:c9:2c:bf:90:73:cd:aa:c1:31:79:9f:e8:
+        20:91:1c:57:40:0d:13:ee:0d:42:c5:b3:71:94:94:14:66:a1:
+        39:25:f4:a5:40:53:9e:08:3e:f3:15:a7:a6:27:90:39:16:b3:
+        1e:44:b8:73:06:04:0a:76:04:de:9e:c1:05:76:98:df:63:fc:
+        ba:45:1f:1f:32:17:e3:ff:e5:be:b3:ef:30:d9:7d:cd:78:60:
+        50:a9:6e:b7:45:9d:a9:04:3a:7a:da:4e:f2:c5:36:37:7a:83:
+        f8:a0:7b:8e:d9:c2:22:64:68:85:44:80:5a:23:7d:12:60:4c:
+        55:27:05:8f:4d:22:43:5e:11:11:68:19:f7:0b:f4:a0:33:0b:
+        26:f5:2b:07:56:bc:3b:60:fc:82:57:2d:5c:27:c5:f0:7a:82:
+        9d:c2:5d:3b:f6:4f:8f:60:95:3d:c9:81:27:d9:c5:3d:e5:67:
+        00:ea:47:97:85:93:b9:d5:b2:ba:8e:10:bf:12:a6:06:bb:d2:
+        71:61:fb:0a:ec:34:fb:e2:26:bd:0d:3d:8a:7c:fa:4b:ff:f1:
+        e9:e4:6b:91:de:ec:4c:42:52:f8:e2:33:c6:20:94:3c:92:da:
+        f2:a7:6d:c9:5c:73:4b:6a:15:d9:17:03:9f:21:39:7d:51:da:
+        c9:39:51:4c
+-----BEGIN CERTIFICATE-----
+MIIDfzCCAmegAwIBAgIQVTLBmwLmwuBJ4KHcSfIp/DANBgkqhkiG9w0BAQsFADAi
+MSAwHgYDVQQDDBd2cG4udGlqZXN1bmlhYnJhaGFtLmNvbTAeFw0yNDA1MDIwOTU4
+MDNaFw0yNjA4MDUwOTU4MDNaMBExDzANBgNVBAMMBnNlcnZlcjCCASIwDQYJKoZI
+hvcNAQEBBQADggEPADCCAQoCggEBAM/QigjPFtdTPSJuHzr8smDwEpp37dWflIYJ
+4OCi6/5taIWgkP00m+qsH6UHfKUp0Og6mO2uH+EAn8XzD4uSBrbMPEzQ1v2/Kb3y
+fbZi4PDjv9phd3sBHRTS7YM7Fey07NkGYgR8cgQLuMIv4x2z8VRc4Rwhchu0e80t
+kqeyjq+ebV5OCbEAmCIUiiE8d9rSIO1APNlS8qe2efaLRLzdOu8YvfwgueB5RFFv
+UXBixm6XCSFXYjmvn2YwuwVTdY5S1L08RrUYd5TJpwbWAmOSpZB4S611bEcffK2o
+x1pfzHH5EUlroTaSF+KNZpkoWgDc/qXDJp05mgRPub16YVe+oB0CAwEAAaOBwTCB
+vjAJBgNVHRMEAjAAMB0GA1UdDgQWBBS5lHF/x77qYxsHdoZNbElCa5fM3DBdBgNV
+HSMEVjBUgBQGm7BMf1cH851UotKzEqm+S6cU66EmpCQwIjEgMB4GA1UEAwwXdnBu
+LnRpamVzdW5pYWJyYWhhbS5jb22CFGCo9aAHp0SsS0+hLlG8gBukRN1YMBMGA1Ud
+JQQMMAoGCCsGAQUFBwMBMAsGA1UdDwQEAwIFoDARBgNVHREECjAIggZzZXJ2ZXIw
+DQYJKoZIhvcNAQELBQADggEBAAjmVuciHcksv5BzzarBMXmf6CCRHFdADRPuDULF
+s3GUlBRmoTkl9KVAU54IPvMVp6YnkDkWsx5EuHMGBAp2BN6ewQV2mN9j/LpFHx8y
+F+P/5b6z7zDZfc14YFCpbrdFnakEOnraTvLFNjd6g/ige47ZwiJkaIVEgFojfRJg
+TFUnBY9NIkNeERFoGfcL9KAzCyb1KwdWvDtg/IJXLVwnxfB6gp3CXTv2T49glT3J
+gSfZxT3lZwDqR5eFk7nVsrqOEL8Spga70nFh+wrsNPviJr0NPYp8+kv/8enka5He
+7ExCUvjiM8YglDyS2vKnbclcc0tqFdkXA58hOX1R2sk5UUw=
+-----END CERTIFICATE-----
